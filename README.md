@@ -9,4 +9,4 @@
 
 ## Структура проекта
 * `supply_chain.py` - основной файл
-* 'Supply chain logisitcs problem.xlsx' - Excel-файл, по которому выполнялась работа (лежит на Kaggle: 'Supply Chain Data')
+* `Supply chain logisitcs problem.xlsx` - Excel-файл, по которому выполнялась работа (лежит на Kaggle: 'Supply Chain Data')
