@@ -4,9 +4,9 @@
 
 ## Технологический стек
 * **Python 3.13**
-* **Pandas:**
-* **Openpyxl:**
+* **Pandas**
+* **Openpyxl**
 
 ## Структура проекта
-* `covid.py` - основной файл
+* `supply_chain.py` - основной файл
 * 'Supply chain logisitcs problem.xlsx' - Excel-файл, по которому выполнялась работа (лежит на Kaggle: 'Supply Chain Data')
