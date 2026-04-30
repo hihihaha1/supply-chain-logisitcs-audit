@@ -1,7 +1,7 @@
 import pandas as pd
 
 
-path = 'data/Supply chain logisitcs problem.xlsx'
+path = 'data/Supply_chain_logisitcs_problem.xlsx'
 
 orders = pd.read_excel(path, sheet_name='OrderList')
 rates = pd.read_excel(path, sheet_name='FreightRates')
